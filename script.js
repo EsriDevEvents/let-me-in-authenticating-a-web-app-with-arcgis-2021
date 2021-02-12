@@ -9,7 +9,7 @@ require([
   const greeting = document.querySelector('h1');
 
   const info = new OAuthInfo({
-    appId: 'CuZgHdDl3ILnzfGU',
+    appId: 'YOUR-REGISTERED-APP-ID-HERE',
     popup: false,
     //portalUrl: 'https://mywebsite.com/arcgis'
   });
